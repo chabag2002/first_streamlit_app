@@ -6,6 +6,6 @@ streamlit.header('chapter 1: basics')
 
 
 streamlit.text('Learn about variables')
-streamlt.text('Learn about Loops')
+streamlit.text('Learn about Loops')
 
 
