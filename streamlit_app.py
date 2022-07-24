@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Hellow Pyth')
+streamlit.title('Hello Pyth')
